@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\bin\Debug\net8.0\ReadNumbers.exe
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\bin\Debug\net8.0\ReadNumbers.deps.json
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\bin\Debug\net8.0\ReadNumbers.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\bin\Debug\net8.0\ReadNumbers.dll
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\bin\Debug\net8.0\ReadNumbers.pdb
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.dll
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\refint\ReadNumbers.dll
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.pdb
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ReadNumbers.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\ReadNumbers\obj\Debug\net8.0\ref\ReadNumbers.dll
